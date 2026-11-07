@@ -1,0 +1,205 @@
+provider,run,task,success,agent_wall_ms,script_total_ms,steps,prompt_tokens,completion_tokens,final,error
+agent37,1,stock,true,22114,24919,2,22288,1607,$186.64,
+agent37,1,charger,true,172811,175039,10,149005,7729,"Product Name: Anker Nano Charger (30W)
+Cart Total: $15.99
+Cart Link: https://www.anker.com/cart",
+agent37,1,weekend,true,72454,74681,8,135034,7962,"# San Francisco Weekend Ideas (November 7–8, 2026)
+
+- **Name**: SF Coffee Festival 2026: Coffee Tastings + Live Music
+  - **Day**: Saturday, November 7, 2026
+  - **Why it is worth going**: Sample artisan coffees from top roasters while enjoying live music and entertainment.
+  - **Link**: https://sf.funcheap.com/sf-coffee-festival-2026-coffee-tastings-live-music-nov-7-8/
+
+- **Name**: 2026 San Francisco Fall Cider Fest
+  - **Day**: Saturday, November 7, 2026
+  - **Why it is worth going**: Enjoy unlimited tastings of over 30 craft ciders alongside local food trucks and festive autumn vibes.
+  - **Link**: https://sf.funcheap.com/2026-san-francisco-fall-cider-fest-unlimited-tastings-of-30-ciders/
+
+- **Name**: San Francisco Diwali Festival at Yerba Buena Gardens 2026
+  - **Day**: Sunday, November 8, 2026
+  - **Why it is worth going**: Celebrate the vibrant Festival of Lights with live music, dance performances, and cultural activities outdoors in downtown SF.
+  - **Link**: https://sf.funcheap.com/san-francisco-diwali-festival-yerba-buena-gardens-2026/
+
+Attachments:
+
+weekend-ideas.md:
+# San Francisco Weekend Ideas (November 7–8, 2026)
+
+- **Name**: SF Coffee Festival 2026: Coffee Tastings + Live Music
+  - **Day**: Saturday, November 7, 2026
+  - **Why it is worth going**: Sample artisan coffees from top roasters while enjoying live music and entertainment.
+  - **Link**: https://sf.funcheap.com/sf-coffee-festival-2026-coffee-tastings-live-music-nov-7-8/
+
+- **Name**: 2026 San Francisco ",
+agent37,1,compare,true,37220,39417,3,46700,2866,"Apple AirPods Pro 3 Prices:
+- Apple: $249.00
+- Verizon: $249.00
+
+The prices are equal. Here is the Apple link:
+https://www.apple.com/shop/buy-airpods/airpods-pro-3",
+agent37,1,dinner,true,111832,114066,11,183733,8504,"Here are the details for the requested reservation search:
+
+- **Restaurant Name:** Poesia Osteria Italiana (Rating: 4.8)
+- **Time Slot:** 7:00 PM (Available slots in the window include 6:30 PM, 6:45 PM, 7:00 PM, 7:15 PM, 7:30 PM, 7:45 PM, and 8:00 PM for 2 guests on Saturday, November 14, 2026)
+- **Resy Page Link:** https://resy.com/cities/san-francisco-ca/venues/poesia-osteria-italiana",
+agent37,2,weekend,true,119702,124599,10,186851,11557,"# San Francisco Weekend Ideas (November 7–8, 2026)
+
+- **Name:** SF Coffee Festival 2026: Coffee Tastings + Live Music (Nov. 7-8)
+  - **Day:** Saturday, November 7 & Sunday, November 8, 2026
+  - **Why it's worth going:** Sample specialty coffees from top Bay Area roasters, attend educational panels, and enjoy live music at Fort Mason.
+  - **Link:** https://sf.funcheap.com/sf-coffee-festival-2026-coffee-tastings-live-music-nov-7-8/
+
+- **Name:** 2026 San Francisco Fall Cider Fest (Unlimited Tastings of 30+ Ciders)
+  - **Day:** Saturday, November 7, 2026
+  - **Why it's worth going:** Enjoy unlimited tastings of over 30 craft ciders along with food trucks, live music, and camp games at SPARK Social SF.
+  - **Link:** https://sf.funcheap.com/2026-san-francisco-fall-cider-fest-unlimited-tastings-of-30-ciders/
+
+- **Name:** San Francisco Diwali Festival at Yerba Buena Gardens 2026
+  - **Day:** Sunday, November 8, 2026
+  - **Why it's worth going:** Celebrate the festival of lights with vibrant contemporary and traditional South Asian cultural performances in Yerba Buena Gardens.
+  - **Link:** https://sf.funcheap.com/san-francisco-diwali-festival-yerba-buena-gardens-2026/
+
+Attachments:
+
+weekend-ideas.md:
+# San Francisco Weekend Ideas (November 7–8, 2026)
+
+- **Name:** SF Coffee Festival 2026: Coffee Tastings + Live Music (Nov. 7-8)
+  - **Day:** Saturday, November 7 & Sunday, November 8, 2026
+  - **Why it's worth going:** Sample specialty coffees from top Bay Area roasters, attend educatio",
+agent37,2,stock,true,27928,33964,2,21177,1139,$186.64,
+agent37,2,compare,true,41280,45087,3,46774,2709,"Here is the price comparison for Apple AirPods Pro 3:
+
+- Apple: $249.00
+- Verizon: $249.00
+
+The prices on both websites are equal.
+Link: https://www.apple.com/shop/buy-airpods/airpods-pro-3",
+agent37,2,dinner,true,142335,148719,11,229458,10585,"Restaurant Name: Poesia Osteria Italiana (Rating: 4.8 / 5 stars)
+Time Slot: 7:00 PM (Indoor dining and Outdoor patio available; additional slots also available at 6:30 PM, 6:45 PM, 7:15 PM, 7:30 PM, 7:45 PM, and 8:00 PM)
+Link: https://resy.com/cities/san-francisco-ca/venues/poesia-osteria-italiana?date=2026-11-14&seats=2",
+agent37,2,charger,true,207275,214035,16,300738,12942,"Product Name: Anker Nano Charger (30W)
+Cart Total: $15.99
+Cart Link: https://www.anker.com/cart",
+agent37,3,dinner,true,284279,290518,21,447926,22430,"Here is a well-rated Italian restaurant in San Francisco with an available table matching your criteria:
+
+- **Restaurant Name:** Polenta Trattoria Friulana
+- **Rating:** 4.8 stars (277 reviews)
+- **Available Time Slot:** 7:00 PM (Dinner) for 2 guests on Saturday, November 14, 2026 (additional slots also visible at 6:30 PM and 6:45 PM)
+- **Link:** https://resy.com/cities/san-francisco-ca/venues/polenta-trattoria-friulana",
+e2b,1,stock,true,38620,43163,3,43181,2477,$186.64,
+e2b,1,charger,true,117141,119296,10,165844,7224,"Product Name: Anker Nano Charger (30W)
+Cart Total: $15.99
+Cart Link: https://www.anker.com/cart",
+e2b,1,weekend,true,81258,83362,8,134601,8730,"# Weekend Ideas: San Francisco (November 7–8, 2026)
+
+1. **SF Coffee Festival 2026: Coffee Tastings + Live Music**
+   - **Day:** Saturday, November 7 & Sunday, November 8, 2026
+   - **Why it is worth going:** Experience specially curated roasters offering unlimited craft coffee tastings alongside live musical entertainment.
+   - **Link:** https://sf.funcheap.com/sf-coffee-festival-2026-coffee-tastings-live-music-nov-7-8/
+
+2. **2026 San Francisco Fall Cider Fest (Unlimited Tastings of 30+ Ciders)**
+   - **Day:** Saturday, November 7, 2026
+   - **Why it is worth going:** Savor unlimited pours from over 30 artisan ciders accompanied by seasonal lawn games, food trucks, and live tunes.
+   - **Link:** https://sf.funcheap.com/2026-san-francisco-fall-cider-fest-unlimited-tastings-of-30-ciders/
+
+3. **San Francisco Diwali Festival at Yerba Buena Gardens 2026**
+   - **Day:** Sunday, November 8, 2026
+   - **Why it is worth going:** Immerse yourself in the vibrant Festival of Lights celebration with colorful dance performances, traditional music, and rich cultural festivities.
+   - **Link:** https://sf.funcheap.com/san-francisco-diwali-festival-yerba-buena-gardens-2026/
+
+Attachments:
+
+weekend-ideas.md:
+# Weekend Ideas: San Francisco (November 7–8, 2026)
+
+1. **SF Coffee Festival 2026: Coffee Tastings + Live Music**
+   - **Day:** Saturday, November 7 & Sunday, November 8, 2026
+   - **Why it is worth going:** Experience specially curated roasters offering unlimited craft coffee tastings alon",
+e2b,1,compare,true,35620,37627,3,46920,2764,"The prices for the Apple AirPods Pro 3 are:
+- Apple: $249.00
+- Verizon: $249.00
+
+The prices are equal. Here is the Apple link: https://www.apple.com/shop/buy-airpods/airpods-pro-3",
+e2b,1,dinner,true,119878,122056,11,178174,8416,"Here are the details for a well-rated Italian restaurant in San Francisco with availability matching your criteria:
+
+- **Restaurant Name:** Poesia Osteria Italiana (Rating: 4.8 ★ / 2K+ reviews)
+- **Available Time Slot:** 7:00 PM (Indoor dining / Outdoor patio) on Saturday, November 14, 2026 for 2 guests (additional slots at 6:30 PM, 6:45 PM, 7:15 PM, 7:30 PM, 7:45 PM, and 8:00 PM are also available)
+- **Resy Page Link:** https://resy.com/cities/san-francisco-ca/venues/poesia-osteria-italiana?date=2026-11-14&seats=2",
+e2b,2,weekend,true,104323,107791,10,176119,9008,"# Weekend Ideas in San Francisco (November 7–8, 2026)
+
+- **SF Coffee Festival 2026: Coffee Tastings + Live Music**
+  - **Day:** Saturday, November 7 & Sunday, November 8, 2026
+  - **Why it's worth going:** Enjoy curated tastings from top craft roasters paired with live acoustic music performances.
+  - **Link:** https://sf.funcheap.com/sf-coffee-festival-2026-coffee-tastings-live-music-nov-7-8/
+
+- **2026 San Francisco Fall Cider Fest**
+  - **Day:** Saturday, November 7, 2026
+  - **Why it's worth going:** Features unlimited tastings of over 30 artisanal ciders alongside seasonal fall entertainment.
+  - **Link:** https://sf.funcheap.com/2026-san-francisco-fall-cider-fest-unlimited-tastings-of-30-ciders/
+
+- **San Francisco Diwali Festival at Yerba Buena Gardens 2026**
+  - **Day:** Sunday, November 8, 2026
+  - **Why it's worth going:** Celebrate the vibrant Festival of Lights with live traditional dance, music, and cultural festivities outdoors at Yerba Buena Gardens.
+  - **Link:** https://sf.funcheap.com/san-francisco-diwali-festival-yerba-buena-gardens-2026/
+
+Attachments:
+
+weekend-ideas.md:
+# Weekend Ideas in San Francisco (November 7–8, 2026)
+
+- **SF Coffee Festival 2026: Coffee Tastings + Live Music**
+  - **Day:** Saturday, November 7 & Sunday, November 8, 2026
+  - **Why it's worth going:** Enjoy curated tastings from top craft roasters paired with live acoustic music performances.
+  - **Link:** https://sf.funcheap.com/sf-coffee-festival-2026-coffee-tastings-live-music-nov-7-8",
+e2b,2,stock,true,19547,20890,2,22288,1304,$186.64,
+e2b,2,compare,true,31216,32548,3,46765,3078,"The prices for the Apple AirPods Pro 3 are as follows:
+- Apple: $249.00
+- Verizon: $249.00
+
+The prices on both websites are equal ($249.00).
+Link: https://www.apple.com/shop/buy-airpods/airpods-pro-3",
+e2b,2,dinner,true,108051,109495,12,194133,8582,"Restaurant Name: Poesia Osteria Italiana
+Time Slot: 7:00 PM (Indoor dining / Outdoor patio; also available at 6:30 PM, 6:45 PM, 7:15 PM, 7:30 PM, 7:45 PM, and 8:00 PM)
+Resy Link: https://resy.com/cities/san-francisco-ca/venues/poesia-osteria-italiana?date=2026-11-14&seats=2",
+e2b,2,charger,true,107249,108628,10,169016,7069,"Product Name: Anker Nano Charger (30W)
+Cart Total: $15.99
+Cart Link: https://www.anker.com/cart",
+e2b,3,dinner,true,115188,119606,12,198852,8741,"Restaurant Name: Poesia Osteria Italiana
+Time Slot: 7:00 PM (Indoor dining / Outdoor patio)
+Resy Link: https://resy.com/cities/san-francisco-ca/venues/poesia-osteria-italiana?date=2026-11-14&seats=2",
+e2b,3,weekend,true,66430,68292,8,135632,6570,"# Weekend Ideas in San Francisco (November 7–8, 2026)
+
+1. **SF Coffee Festival 2026: Coffee Tastings + Live Music**
+   - **Day:** Saturday, November 7, 2026 (and Sunday, November 8, 2026)
+   - **Why it's worth going:** Taste specially curated craft roasts from top roasters while enjoying live musical performances.
+   - **Link:** https://sf.funcheap.com/sf-coffee-festival-2026-coffee-tastings-live-music-nov-7-8/
+
+2. **2026 San Francisco Fall Cider Fest**
+   - **Day:** Saturday, November 7, 2026
+   - **Why it's worth going:** Enjoy unlimited tastings of over 30 craft ciders paired with food trucks and festive autumn vibes.
+   - **Link:** https://sf.funcheap.com/2026-san-francisco-fall-cider-fest-unlimited-tastings-of-30-ciders/
+
+3. **San Francisco Diwali Festival at Yerba Buena Gardens 2026**
+   - **Day:** Sunday, November 8, 2026
+   - **Why it's worth going:** Celebrate the vibrant Festival of Lights with traditional music, lively cultural dance performances, and art in downtown SF.
+   - **Link:** https://sf.funcheap.com/san-francisco-diwali-festival-yerba-buena-gardens-2026/
+
+Attachments:
+
+weekend-ideas.md:
+# Weekend Ideas in San Francisco (November 7–8, 2026)
+
+1. **SF Coffee Festival 2026: Coffee Tastings + Live Music**
+   - **Day:** Saturday, November 7, 2026 (and Sunday, November 8, 2026)
+   - **Why it's worth going:** Taste specially curated craft roasts from top roasters while enjoying live musical performances.
+   - **Link:** https://sf.funcheap.com/sf-coffee-festival-2",
+e2b,3,stock,true,20565,22325,2,21166,1380,$186.64,
+e2b,3,charger,true,113719,115686,11,200921,8339,"Product Name: Anker Nano Charger (30W)
+Cart Total: $15.99
+Cart Link: https://www.anker.com/cart",
+e2b,3,compare,true,32781,34561,3,46903,2674,"Apple AirPods Pro 3 Price: $249.00
+Verizon Apple AirPods Pro 3 Price: $249.00
+
+The prices are equal on both stores.
+Product link: https://www.apple.com/shop/buy-airpods/airpods-pro-3",
