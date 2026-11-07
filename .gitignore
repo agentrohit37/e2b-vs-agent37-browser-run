@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Raw run output (sandbox ids, sysinfo incl. public IPs, agent logs), screenshots and agent recordings
+data/
+shots/
+videos/
+*.gif
+*.webm
+*.tar
+*.tar.gz
+*.log
+
+.DS_Store
+Thumbs.db

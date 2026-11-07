@@ -1,0 +1,24 @@
+{
+  "name": "e2b-vs-agent37-browser-run",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rerunnable headless-browser benchmark: Agent37 vs E2B sandboxes (raw Chromium speed + Browser Use agent tasks).",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build:e2b": "node build-e2b-template.js",
+    "build:agent37": "node build-agent37-template.js",
+    "part-a": "node run-part-a.js --runs 20",
+    "part-a:warm": "node run-part-a.js --warm --runs 3 --passes 3",
+    "part-b": "node run-part-b.js --runs 3 --parallel",
+    "analyze": "node analyze.js",
+    "cost": "node lib/cost.js",
+    "leftovers": "node lib/list-mine.js",
+    "check": "node -e \"const {execFileSync}=require('child_process');for(const f of ['analyze.js','run-part-a.js','run-part-b.js','build-agent37-template.js','build-e2b-template.js',...require('fs').readdirSync('lib').map(x=>'lib/'+x)])execFileSync(process.execPath,['--check',f],{stdio:'inherit'});console.log('syntax ok')\""
+  },
+  "dependencies": {
+    "e2b": "2.63.0"
+  }
+}
